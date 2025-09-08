@@ -19,3 +19,6 @@ now we can `cd` into the directory that we just cloned and copy the script to `/
 # cp ./pinefetch /usr/local/bin
 ```
 now we should be able to run the script by just typing `pinefetch`
+
+
+p.s. the content of the script is very whacky
