@@ -1,7 +1,7 @@
 # pinefetch
-an obnoxious script to fetch informations about your system
+a script to fetch informations about your system
 
-<img width="848" height="480" alt="2025-09-08-215456_848x480_scrot" src="https://github.com/user-attachments/assets/34a7f16e-3915-4218-8315-709714112cdb" />
+<img width="800" height="600" alt="screenshot" src="https://github.com/user-attachments/assets/a67e032c-d955-4b8e-a3f5-c7fa0430c8b7" />
 
 # How to install
 ## Dependencies required to run the script
